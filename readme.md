@@ -1,3 +1,3 @@
 # FlexBlog
 
-## Landing Page responsiva feita totalmente utilizando flexbox
+## Landing Page feita totalmente utilizando flexbox
